@@ -51,5 +51,6 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 ## Contributing
 Feel free to open issues or pull requests — suggestions for feature engineering, model improvements, and clearer visualizations are welcome.
 
-## License
-This project is released under the MIT License.
+## Author
+
+*Piyush Srivastava* | [GitHub](https://github.com/yourprofile)
